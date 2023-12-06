@@ -1,4 +1,5 @@
-# drosSleepStages_SciAdvances2023
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10277466.svg)](https://doi.org/10.5281/zenodo.10277466)
+
 Repository for reproducing figures in the paper drosSleepStages_SciAdvances2023
 
 ## Data extraction
