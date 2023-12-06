@@ -14,4 +14,4 @@ To utlize the code/analysis scripts in reproducing the figures from the paper fo
 * Python 3.6.x (for specific module versions refer to [requirements](https://github.com/SridharJagannathan/drosSleepStages_SciAdvances2023/blob/main/requirements.txt))
 
 ## Support
-* Please raise an issue incase you face any difficulty of extracting/utilising the dataset and I will try and get back to you in a few days.
+* Please raise an issue incase you face any difficulty of utilising the repo and I will try and get back to you in a few days.
