@@ -11,7 +11,7 @@ To utlize the code/analysis scripts in reproducing the figures from the paper fo
 
 ## Software
 * Matlab 2021b
-* Python 3.6.x (for specific modules refer to [check_videodataintegrity.ipynb](https://github.com/SridharJagannathan/drosSleepStages_SciAdvances2023/blob/main/requirements.txt))
+* Python 3.6.x (for specific module versions refer to [requirements](https://github.com/SridharJagannathan/drosSleepStages_SciAdvances2023/blob/main/requirements.txt))
 
 ## Support
 * Please raise an issue incase you face any difficulty of extracting/utilising the dataset and I will try and get back to you in a few days.
