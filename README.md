@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10277466.svg)](https://doi.org/10.5281/zenodo.10277466)
 
-Repository for reproducing figures in the paper drosSleepStages_SciAdvances2023
+Repository for reproducing figures in the paper:  [![DOI:10.1126/sciadv.adj4399](https://zenodo.org/badge/DOI/10.1126/sciadv.adj4399.svg)](https://doi.org/10.1126/sciadv.adj4399)
 
 ## Data extraction
 To utlize the code/analysis scripts in reproducing the figures from the paper follow the below steps:
